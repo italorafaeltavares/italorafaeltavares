@@ -5,7 +5,7 @@
 - 
 ##
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=github_dark)
 
 ##  
   
