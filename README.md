@@ -15,8 +15,8 @@
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg">
   <img align="center" alt="Rafa-Vangrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+  <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg">
   <img align="center" alt="Rafa-Terraformio" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
 </div>
   
