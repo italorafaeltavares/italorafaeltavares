@@ -19,7 +19,9 @@
   <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg">
   <img align="center" alt="Rafa-Vangrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
   <img align="center" alt="Rafa-Terraformio" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  <img align="center" alt="Rafa-Aws" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">  
+  <img align="center" alt="Rafa-Aws" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> 
+  <img align="center" alt="Rafa-Aws" height="30" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
+  <img align="center" alt="Rafa-Aws" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/512px-Devops-toolchain.svg.png">
     
 </div>
   
