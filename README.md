@@ -1,6 +1,6 @@
 ## Sejá Bem Vindo, Eu sou Italo Rafael.
 
-- 💻  Atualmente trabalhando como Analista de Infrasestrura 
+- 💻  Atualmente trabalhando como Analista de Infrasestrura.
 - 🕮  Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Container | Cloud | Ansible | Terraform | Zabbix | com foco em IaC.
 
 ##
