@@ -4,10 +4,10 @@
 - 🕮  Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Container | Cloud | Ansible | Terraform | Zabbix | com foco em IaC.
 ##
 
-<div align="center">
-  <a href="https://github.com/italorafaeltavares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=dark)
+
+
 ##  
   
 <div style="display: inline_block"><br>
@@ -28,4 +28,6 @@
   <a href="https://www.youtube.com/channel/UCZ2-KN4KhbK1EEv1rP0B73w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:italorafaeltavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>  
+    
+    
   
