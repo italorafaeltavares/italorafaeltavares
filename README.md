@@ -2,11 +2,10 @@
 
 - 💻  Atualmente trabalhando como Analista de Infrasestrura.
 - 🕮  Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Container | Cloud | Ansible | Terraform | Zabbix | com foco em IaC.
+- 
 ##
-
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=dark)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=dark)
 
 ##  
   
@@ -18,7 +17,6 @@
   <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg">
   <img align="center" alt="Rafa-Vangrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
   <img align="center" alt="Rafa-Terraformio" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  
 </div>
   
 ##  
