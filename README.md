@@ -2,13 +2,13 @@
 
 - 👨‍🎓   Graduado em redes de computadores e Pós-graduando e Engenharia DeVops.
 - 💻   Atualmente trabalho como Analista de Infrasestrura.
-- 🕮   Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Container | Cloud | Ansible | Terraform | com foco em IaC.
+- 🕮   Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Containers | Cloud | Ansible | Terraform | com foco em IaC.
 
 ##
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=italorafaeltavares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&hide=java&layout=compact&theme=github_dark)
 
-##  
+## Skills in development
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-Terraformio" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
 </div>
   
-##  
+## Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/italo-rafael-t-287683156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,7 +29,7 @@
 </div>  
 
 
-## Vizualizações  <br>
+## Views  <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/italorafaeltavares/count.svg" />
  </p>
