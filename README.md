@@ -27,6 +27,14 @@
   <a href="https://www.youtube.com/channel/UCZ2-KN4KhbK1EEv1rP0B73w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:italorafaeltavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>  
+
+
+## Vizualizações  <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/italorafaeltavares/count.svg" />
+ </p>
+
+</p>
     
     
   
