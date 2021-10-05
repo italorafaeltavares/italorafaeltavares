@@ -2,7 +2,7 @@
 
 - 👨‍🎓   Graduado em redes de computadores e Pós-graduando e Engenharia DevOps.
 - 💻   Atualmente trabalho como Analista de Infraestrutura.
-- 🕮   Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Containers | Cloud | Jenkins | Ansible | Terraform | com foco em IaC.
+- 🕮   Estudando a cultura DevOps e suas ferramentas CALMS | Linux | Git | Containers | Kubermetes | Cloud | Jenkins | Ansible | Terraform | com foco em IaC.
 
 ## Contact
 
