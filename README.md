@@ -30,20 +30,6 @@
   <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
 </div>
 
-## Badges acquired 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Docker" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/DOCKER.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/K8S.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/CICD.png"/>
-  <img align="center" alt="Rafa-Docker" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/Kubernetes%20Bootcamp%202.0%20DOCKER.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/Kubernetes%20Bootcamp%202.0%20KUBERNETES.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/Kubernetes%20Bootcamp%202.0%20CICD.png"/>
-  <img align="center" alt="Rafa-Docker" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/Devops%20Foundation.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/Uncomplicating%20Docker.png"/>
-  <img align="center" alt="Rafa-K8s" height="50" width="50" src="https://github.com/italorafaeltavares/badges/blob/master/AWS-Academy-Graduate-Badge-Foundational.png"/>
-</div>
-
-  
 
 
     
