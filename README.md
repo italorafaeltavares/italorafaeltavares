@@ -45,12 +45,7 @@
 
   
 
-## Views  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/italorafaeltavares/count.svg" />
- </p>
 
-</p>
     
     
   
