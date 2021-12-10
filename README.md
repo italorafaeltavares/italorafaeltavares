@@ -27,7 +27,9 @@
   <img align="center" alt="Rafa-Vangrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
   <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg">
   <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="Rafa-Packer" height="30" width="40" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg">
   <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+  <img align="center" alt="Rafa-Zabbix" height="35" width="35" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
 </div>
 
 
