@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorafaeltavares&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
   
-##
+## Technologies que uso
   Redes | Linux | Git | Container | Kubernetes | Cloud | Ansible | Terraform | Jenkins | Zabbix 
   
 <div style="display: inline_block"><br>
