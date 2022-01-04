@@ -1,8 +1,12 @@
 ## Seja bem vindo, Eu sou Italo Rafael.
 
-- 👨‍🎓  Graduado em redes de computadores com Pós-graduação em Engenharia DevOps.
-- 💻  Atualmente trabalho como Analista de Infraestrutura.
-- 🕮  Realizando a formação DevOps da Alura e aprendendo JavaScript
+> Graduado em redes de computadores com Pós-graduação em Engenharia DevOps. 
+
+> Aualmente trabalho como Analista de Infraestrutura.
+
+> Estudante da Alura realizando as formações em DevOps 
+
+> Aspirante para se tornar Desenvolvedor
 
 ##
   Redes | Linux | Git | Container | Kubernetes | Cloud | Ansible | Terraform | Jenkins | Zabbix 
