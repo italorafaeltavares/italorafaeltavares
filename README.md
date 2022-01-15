@@ -4,7 +4,7 @@
 
 > Aualmente trabalho como Analista de Infraestrutura.
 
-> Estudante da Alura realizando as formações em DevOps 
+> Estudante da Alura realizando as formações de Python e DevOps 
 
 > Aspirante para se tornar Desenvolvedor
 
