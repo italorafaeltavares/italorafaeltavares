@@ -1,10 +1,10 @@
 ## Seja bem vindo, Eu sou Italo Rafael.
 
-> Graduado em redes de computadores com Pós-graduação em Engenharia DevOps. 
+> Graduado em redes de computadores e Pós-graduado em Engenharia DevOps. 
 
-> Aualmente trabalho como Analista de Infraestrutura.
+> Atualmente trabalho como Analista de Infraestrutura.
 
-> Estudante da Alura realizando as formações de Python e DevOps 
+> Estudante da Alura realizando as formações em  Python e DevOps 
 
 > Aspirante para se tornar Desenvolvedor
 
