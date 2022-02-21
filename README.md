@@ -1,12 +1,11 @@
 ## Seja bem vindo, Eu sou Italo Rafael.
 
+> Aspirante para se tornar Desenvolvedor Python
+
 > Estudante da Alura realizando as formações em  Python e DevOps 
 
-> Aspirante para se tornar Desenvolvedor
+> Sou Graduado em Redes de Computadores com Pós-graduação em Engenharia DevOps e Trabalho como Analista de Infraestrutura. 
 
-> Graduado em redes de computadores e Pós-graduado em Engenharia DevOps. 
-
-> Atualmente trabalho como Analista de Infraestrutura.
 
 ## Contatos
 
