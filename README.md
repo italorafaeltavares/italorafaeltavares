@@ -26,6 +26,7 @@
   <img align="center" alt="Html" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
   <img align="center" alt="Css" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
+ </div>
   
 
 ## Tecnologias que uso
