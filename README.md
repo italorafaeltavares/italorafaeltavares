@@ -7,8 +7,6 @@
 ## Seja bem vindo, Eu sou Italo Rafael.
 
 - Sou Graduado em Redes de Computadores com Pós-graduação em Engenharia DevOps.
-- Trabalho como SysAdmin.  
-- Atualmente estou estudando para me tornar Desenvolvedor. 
 
 ## Contatos
 
