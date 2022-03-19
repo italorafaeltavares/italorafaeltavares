@@ -7,7 +7,11 @@
 ## Seja bem vindo, Eu sou Italo Rafael.
 
 - Sou Graduado em Redes de Computadores com Pós-graduação em Engenharia DevOps.
-
+- Atualmente trabalho como Analista de Infraestrutura,
+- Gosto muito de estudar e aprender Ferramentas DevOps. 
+  
+  
+  
 ## Contatos
 
 <div> 
@@ -50,14 +54,3 @@
   <img align="center" alt="Rafa-Zabbix" height="30" width="30" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
   <img align="center" alt="Rafa-Grafana" height="30" width="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
 </div>
-
-    
-
-
-
-  
-
-
-    
-    
-  
