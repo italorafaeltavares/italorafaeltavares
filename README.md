@@ -5,10 +5,15 @@
 
 
 ## Welcome, I'm Italo Rafael.
+  
+  
+- I'm based in Fortaleza, Brazil
+- I'm a Graduate in Computer Networks with Postgraduate Degree in DevOps Engineering
+- Currently work as an Infrastructure Analyst
+- Really enjoy studying and learning Tools DevOps 
 
-- I am a Graduate in Computer Networks with Postgraduate Degree in DevOps Engineering
-- I currently work as an Infrastructure Analyst
-- I really enjoy studying and learning Tools DevOps 
+<a href="https://www.github.com/italorafaeltavares" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/italorafaeltavares?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>  
   
   
   
@@ -44,3 +49,6 @@
   <img align="center" alt="Rafa-Grafana" height="30" width="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" /> &#160;
   <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
 </div>
+  
+ #
+ <a href="http://www.github.com/italorafaeltavares"><img src="https://activity-graph.herokuapp.com/graph?username=italorafaeltavares&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
