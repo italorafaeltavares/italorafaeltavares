@@ -8,8 +8,8 @@
   
   
 - I'm based in Fortaleza, Brazil
+- IT Infrastructure Analyst
 - I'm a Graduate in Computer Networks with Postgraduate Degree in DevOps Engineering
-- Currently work as an Infrastructure Analyst
 - Really enjoy studying and learning Tools DevOps 
 
 <a href="https://www.github.com/italorafaeltavares" target="_blank" rel="noreferrer"><img
