@@ -8,6 +8,7 @@
   
   
 - I'm based in Fortaleza, Brazil
+- AWS Certified Cloud Practitioner
 - IT Infrastructure Analyst
 - I'm a Graduate in Computer Networks with Postgraduate Degree in DevOps Engineering
 - Really enjoy studying and learning Tools DevOps 
