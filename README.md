@@ -21,7 +21,10 @@ src="https://img.shields.io/github/followers/italorafaeltavares?logo=github&styl
 
 <div> 
   <a href="https://www.linkedin.com/in/italo-rafael-t-287683156" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:italorafaeltavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:italorafaeltavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCZ2-KN4KhbK1EEv1rP0B73w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  </div> 
+  
 
 ## Skills
   > Linux | Git | Gitlab | Jenkins | Docker | Kubernetes | Ansible | Terraform | Cloud | Zabbix | Grafana | Python
