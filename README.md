@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/italorafaeltavares/badges/blob/master/devops.png" style="width: 1200px;">
+  <img src="https://github.com/italorafaeltavares/badges/blob/master/devsecops.png" style="width: 550px;">
 </p>
 <p align="center">
 
@@ -8,7 +8,7 @@
   
 - AWS Certified Cloud Practitioner
 - I'm a Graduate in Computer Networks with Postgraduate Degree in DevOps Engineering
-- Really enjoy studying and learning Tools DevOps 
+- Really enjoy studying and learning Tools DevSecOps 
 
 <a href="https://www.github.com/italorafaeltavares" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/italorafaeltavares?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>  
