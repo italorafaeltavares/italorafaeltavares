@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/italorafaeltavares/badges/blob/master/devsecops.png" style="width: 550px;">
-</p>
-<p align="center">
-
-
 ## Welcome, I'm Italo Rafael.
   
 - AWS Certified Cloud Practitioner
