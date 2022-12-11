@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/italorafaeltavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  ## Developer Skills
+  ## Skills in Development
   > HTML | CSS | JavaScript | React | Git
   
  <div style="display: inline_block"><br>
