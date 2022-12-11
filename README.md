@@ -7,15 +7,14 @@
      Microsoft Azure Fundamentals AZ-900
 
 
-## Contact
+<h3>Contact<h3>
 <div> 
   <a href="https://www.linkedin.com/in/italorafaeltavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-#
-<a href="https://www.github.com/italorafaeltavares" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/italorafaeltavares?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>  
   
-## Skills
+# 
+ DevOps Skills
+  
   > Linux | Python | Git | Gitlab | Jenkins | Docker | Kubernetes | Ansible | Terraform | Cloud | Zabbix | Grafana 
   
 <div style="display: inline_block"><br>
