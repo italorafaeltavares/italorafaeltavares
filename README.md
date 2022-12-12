@@ -2,7 +2,7 @@
   
 - DevOps Engineer
 - Development Student
-- Cloude Certificate <br />
+- Cloud Certificate <br />
      AWS Cloud Practitioner <br />
      Microsoft Azure Fundamentals AZ-900
 
