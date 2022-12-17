@@ -1,6 +1,6 @@
 ## Welcome, I'm Italo Rafael.
   
-- DevOps Engineer
+- DevOps 
 - Development Student
 - Cloud Certificate <br />
      AWS Cloud Practitioner <br />
