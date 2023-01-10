@@ -32,7 +32,7 @@
   <img align="center" alt="Rafa-Jenkins" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> &#160;
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> &#160;
   <img align="center" alt="Rafa-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> &#160;
-  <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/ansible.svg"> &#160;
+  <img align="center" alt="Rafa-Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"> &#160;
   <img align="center" alt="Rafa-Vangrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" /> &#160;
   <img align="center" alt="Rafa-Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"> &#160;
   <img align="center" alt="Rafa-AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"> &#160;
