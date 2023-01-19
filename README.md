@@ -1,6 +1,6 @@
 ## Welcome, I'm Italo Rafael.
   
-- Development Web Student
+- Development Web 
 - Graduate Degree DevOps Engineer
 - Graduate in Networks<p>
 - Cloud Certificate <br>
