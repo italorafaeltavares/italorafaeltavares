@@ -1,4 +1,4 @@
-<img  align="center" alt="Imgage DevOps" width="1200" src="https://blog.estacio.br/wp-content/uploads/2022/09/o-que-faz-um-devops.jpeg">
+<img  align="center" alt="Imgage DevOps" width="1000" src="devops.jpeg">
 
 
 ## Welcome, I'm Italo Rafael.
