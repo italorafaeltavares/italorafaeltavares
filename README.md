@@ -3,10 +3,10 @@
 
 ## Welcome, I'm Italo Rafael.
   
-- Development Web 
+- Web Developer 
 - Graduate Degree DevOps Engineer
-- Graduate in Networks<p>
-- Cloud Certificate <br>
+- Graduate in Networks<br>
+- Cloud certifications <br>
      AWS Cloud Practitioner <br>
      Microsoft Azure Fundamentals AZ-900
 
