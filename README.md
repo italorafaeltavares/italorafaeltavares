@@ -1,4 +1,4 @@
-<img  align="center" alt="Imgage DevOps" width="1000" src="DevSecOps.png">
+<img  align="center" alt="Imgage DevOps" width="850" src="DevSecOps.png">
 
 
 ## Welcome, I'm Italo Rafael.
