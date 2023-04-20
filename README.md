@@ -15,8 +15,6 @@
   <img align="center" alt="Giops" height="30" width="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" />       
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
   <img align="center" alt="Gitlab" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"/> 
-  <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-  <img align="center" alt="Go" height="30" width="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>
   <img align="center" alt="Jenkins" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> 
   <img align="center" alt="Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"> 
   <img align="center" alt="Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
