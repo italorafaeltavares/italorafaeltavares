@@ -21,6 +21,7 @@
   <img align="center" alt="Ansible" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"> 
   <img align="center" alt="Terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   &emsp;<img align="center" alt="AWS" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+  &emsp;<img align="center" alt="Azure" height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
   &emsp; <img align="center" alt="OCI" height="30" width="30" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
   &emsp;<img align="center" alt="Zabbix" height="30" width="30" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" /> 
   &emsp;<img align="center" alt="Grafana" height="30" width="30" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
