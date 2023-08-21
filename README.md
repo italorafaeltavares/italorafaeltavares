@@ -1,9 +1,6 @@
 ## Welcome, I'm Italo Rafael.
 - Graduate Degree DevOps Engineer
 - Graduate in Networks<br>
-- Cloud certifications <br>
-     AWS Cloud Practitioner <br>
-     Microsoft Azure Fundamentals AZ-900
 
 ## DevSecOps Skills
   
