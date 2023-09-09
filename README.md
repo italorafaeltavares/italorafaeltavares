@@ -1,7 +1,8 @@
 ## Welcome, I'm Italo Rafael.
-- Graduate Degree DevOps Engineer
+- Postgraduate in DevOps Engineering
 - Graduate in Networks<br>
-
+- Developer GO
+  
 ## DevSecOps Skills
   
 <div style="display: _block">
