@@ -1,5 +1,5 @@
 ## Welcome, I'm Italo Rafael.
-- Postgraduate in DevOps Engineering
+- Postgraduate in DevOps Engineering and SRE
 - Graduate in Networks<br>
 - Developer GO
   
