@@ -1,7 +1,6 @@
 ## Welcome, I'm Italo Rafael.
 - Postgraduate in DevOps Engineering and SRE
 - Graduate in Networks<br>
-- Developer GO
   
 ## Technical Skills
   
@@ -22,7 +21,6 @@
   &ensp;<img align="center" alt="Grafana" height="25" width="25" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
   &ensp;<img align="center" alt="Zabbix" height="25" width="25" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"/>
   &ensp;<img align="center" alt="Sonarqube" height="30" width="30" src="https://github.com/actions/starter-workflows/blob/main/icons/sonarqube.svg"/>
-  &ensp;<img align="center" alt="Go" height="32" width="36" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"/>
 </div>
 
 ## Contact
