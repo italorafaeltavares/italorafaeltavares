@@ -36,7 +36,7 @@ Professional with expertise in implementing CI/CD pipelines, container orchestra
 ### ☁️ Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Fusion-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 Observabilidade & Monitoramento
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -56,8 +56,4 @@ Professional with expertise in implementing CI/CD pipelines, container orchestra
   <a href="https://www.linkedin.com/in/italorafaeltavares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=italorafael&label=Profile%20views&color=0e75b6&style=flat" alt="italorafael" /> 
 </div>
