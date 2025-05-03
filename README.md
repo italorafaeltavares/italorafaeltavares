@@ -1,4 +1,4 @@
-# Italo Rafael 🚀
+# Italo Rafael 🤝
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+SRE;AI+%26+Platform;Cloud+Computing" alt="Título animado" />
@@ -49,21 +49,12 @@ Professional with expertise in implementing CI/CD pipelines, container orchestra
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italorafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorafael&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## 📫 Como me encontrar
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/italorafaeltavares" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
