@@ -1,16 +1,22 @@
 # Italo Rafael 🤝
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+SRE;AI+%26+Platform;Cloud+Computing" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Developer;Cloud+Computing" alt="Título animado" />
 </div>
 
 ## 👨‍💻 About Me
 
-Postgraduate in DevOps Engineering and SRE | Graduate in Networks | Enthusiast of AI and Platform Engineering
+Postgraduate in DevOps Engineering and SRE | Pursuing Postgraduate in Software Engineering | Graduate in Networks | Enthusiast of AI
 
-Professional with expertise in implementing CI/CD pipelines, container orchestration, infrastructure as code and monitoring distributed systems. Passionate about automation, cloud computing and scalable solutions.
+Professional with expertise in implementing CI/CD pipelines, container orchestration, infrastructure as code, and monitoring distributed systems. Passionate about automation, cloud computing, and scalable solutions.
 
 ## 🛠 Technical Skills
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🖥 Operating Systems & Shell
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,12 +51,6 @@ Professional with expertise in implementing CI/CD pipelines, container orchestra
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D50000?style=for-the-badge&logo=zabbix&logoColor=white)
-
-### 💻 Programming Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## 📫 How to find me
