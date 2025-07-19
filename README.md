@@ -1,7 +1,7 @@
 # Italo Rafael ☕🤝
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Developer Java" alt="Typing animation title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Developer" alt="Typing animation title" />
 </div>
 
 ## 👨‍💻 About Me
