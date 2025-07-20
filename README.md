@@ -39,9 +39,6 @@ I am passionate about scalable systems, automation, and modern DevOps practices 
 ### Monitoring & Observability
 - **Prometheus**, **Grafana**, **Zabbix**, **Elasticsearch**, **OpenTelemetry**
 
-### Messaging
-- **ActiveMQ**
-
 ### Code Quality & Security
 - **SonarQube**, **SAST**, **DAST**, **SCA**
 
