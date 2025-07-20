@@ -6,7 +6,7 @@ DevOps Engineer | Cloud & Automation | AI Enthusiast
 
 ## About Me
 
-I'm a DevOps Engineer with solid experience in infrastructure automation, CI/CD pipelines, container orchestration, observability, and cloud platforms.  
+I'm a DevOps Engineer with experience in infrastructure automation, CI/CD pipelines, container orchestration, observability, and cloud platforms.  
 I hold a postgraduate degree in DevOps Engineering and SRE, and I’m currently pursuing a second postgraduate degree in Software Engineering.  
 I am passionate about scalable systems, automation, and modern DevOps practices that enhance both delivery and reliability.
 
