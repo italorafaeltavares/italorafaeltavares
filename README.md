@@ -1,6 +1,6 @@
 # Italo Rafael
 
-DevOps Engineer | Cloud & Automation | AI Enthusiast
+Developer | DevOps Engineer | Automation & Cloud | AI Enthusiast
 
 ---
 
