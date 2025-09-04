@@ -7,9 +7,7 @@ Developer | DevOps Engineer | Automation & Cloud | AI Enthusiast
 ## About Me
 
 I'm a DevOps Engineer with experience in infrastructure automation, CI/CD pipelines, container orchestration, observability, and cloud platforms.  
-I hold a postgraduate degree in DevOps Engineering and SRE, and I’m currently pursuing a second postgraduate degree in Software Engineering.  
-I am passionate about scalable systems, automation, and modern DevOps practices that enhance both delivery and reliability.
-
+I have a postgraduate degree in DevOps Engineering and SRE and am currently pursuing a postgraduate degree in Software Engineering.  
 ---
 
 ## Technical Skills
