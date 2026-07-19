@@ -20,4 +20,4 @@ I also enjoy developing automation tools and backend services with Go, continuou
 - Site Reliability Engineering (SRE)
 - Incident Response
 - Platform Automation
-- Go for Automation
+- Go Development
