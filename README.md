@@ -1,51 +1,91 @@
-# 👋 Hi there, I'm Italo Rafael  
+# Italo Rafael
 
-💻 **DevOps Engineer** | ☁️ **Cloud & Automation** | 🤖 **AI Enthusiast**  
+DevOps Engineer | SRE | Cloud Infrastructure | Platform Engineering
 
----
+I am a DevOps Engineer focused on building reliable, scalable and automated infrastructure.
 
-## 🚀 About Me  
-
-I'm a **DevOps Engineer** passionate about automation, cloud infrastructure, and observability.  
-I enjoy building efficient, scalable, and reliable systems through **IaC, CI/CD pipelines, container orchestration, and monitoring solutions**.  
-
-🎓 I hold a **postgraduate degree in DevOps Engineering & SRE** and I'm currently pursuing a **postgraduate degree in Software Engineering**.  
-Always learning, always experimenting, always improving.  
+My experience includes Infrastructure as Code, Kubernetes platforms, CI/CD, GitOps, Observability and Cloud Computing. I work with development and operations teams to improve platform reliability, automate processes and solve complex production issues across multi-cloud environments.
 
 ---
 
-## 🛠️ Technical Skills  
+## Core Expertise
 
-### 💻 Programming & Scripting  
-- Java • JavaScript • Python • Bash  
-
-### 🖥️ Operating Systems  
-- Linux (Debian, Ubuntu, CentOS) • Windows Server  
-
-### ⚙️ Infrastructure as Code & Automation  
-- Terraform • Terragrunt • Ansible • Packer • Atlantis  
-
-### ☁️ Cloud Platforms  
-- AWS • Azure • GCP • OCI  
-
-### 🐳 Containers & Orchestration  
-- Docker • Kubernetes • Helm • Argo CD  
-
-### 🔄 CI/CD & Version Control  
-- Git • GitHub Actions • GitLab CI/CD • Bitbucket Pipelines • Jenkins  
-
-### 🗄️ Databases  
-- **SQL:** MySQL • PostgreSQL  
-- **NoSQL:** MongoDB • Redis  
-
-### 📊 Monitoring & Observability  
-- Prometheus • Grafana • Zabbix • Elasticsearch • OpenTelemetry  
-
-### 🔒 Code Quality & Security  
-- SonarQube • SAST • DAST • SCA  
+- Kubernetes Platform Engineering
+- Infrastructure as Code
+- CI/CD Automation
+- GitOps
+- Cloud Infrastructure
+- Linux Administration
+- Observability
+- Site Reliability Engineering (SRE)
+- Incident Response
+- Platform Automation
 
 ---
 
-## 🌍 Let's Connect!  
+## Technology Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italorafaeltavares)  
+### Cloud
+
+AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure
+
+### Containers
+
+Docker • Kubernetes • Helm
+
+### Infrastructure as Code
+
+Terraform • Terragrunt • Ansible • Packer
+
+### GitOps
+
+Argo CD • Atlantis
+
+### CI/CD
+
+GitHub Actions • GitLab CI • Jenkins • Bitbucket Pipelines
+
+### Monitoring
+
+Prometheus • Grafana • Grafana Mimir • OpenTelemetry • Elasticsearch • Zabbix
+
+### Programming
+
+Python • Bash • Go
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB • Redis
+
+### Messaging
+
+RabbitMQ • ActiveMQ
+
+### Security
+
+SonarQube • SAST • SCA • DAST
+
+### Identity
+
+Keycloak
+
+---
+
+## Areas of Interest
+
+- Kubernetes
+- Platform Engineering
+- Cloud Native
+- DevOps
+- Automation
+- Infrastructure as Code
+- Observability
+- Reliability Engineering
+
+---
+
+## Connect
+
+LinkedIn
+
+https://linkedin.com/in/italorafaeltavares
