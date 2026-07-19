@@ -1,8 +1,10 @@
 # Italo Rafael
 
-I am a DevOps Engineer focused on building reliable, scalable and automated infrastructure.
+I am a DevOps Engineer focused on designing, automating and operating reliable, scalable and cloud-native platforms.
 
-My experience includes Infrastructure as Code, Kubernetes platforms, CI/CD, GitOps, Observability and Cloud Computing. I work with development and operations teams to improve platform reliability, automate processes and solve complex production issues across multi-cloud environments.
+My experience includes Infrastructure as Code, Kubernetes platforms, CI/CD, GitOps, Observability and Cloud Computing.
+
+I also enjoy developing automation tools and backend services with Go, continuously expanding my software engineering skills while applying DevOps best practices.
 
 ---
 
@@ -18,4 +20,4 @@ My experience includes Infrastructure as Code, Kubernetes platforms, CI/CD, GitO
 - Site Reliability Engineering (SRE)
 - Incident Response
 - Platform Automation
-- Golang 
+- Go for Automation
