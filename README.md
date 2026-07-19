@@ -1,7 +1,5 @@
 # Italo Rafael
 
-DevOps Engineer | SRE | Cloud Infrastructure | Platform Engineering
-
 I am a DevOps Engineer focused on building reliable, scalable and automated infrastructure.
 
 My experience includes Infrastructure as Code, Kubernetes platforms, CI/CD, GitOps, Observability and Cloud Computing. I work with development and operations teams to improve platform reliability, automate processes and solve complex production issues across multi-cloud environments.
